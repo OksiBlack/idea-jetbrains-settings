@@ -1,0 +1,16 @@
+<application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*" />
+    <option name="USE_CUSTOM_SOFT_WRAP_INDENT" value="true" />
+    <option name="IS_VIRTUAL_SPACE" value="true" />
+    <option name="IS_CARET_INSIDE_TABS" value="true" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+    <option name="RENAME_VARIABLES_INPLACE" value="false" />
+    <option name="BIDI_TEXT_DIRECTION" value="RTL" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
+  </component>
+</application>
